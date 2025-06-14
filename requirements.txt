@@ -1,0 +1,13 @@
+pandas
+transformers
+sentence_transformers
+google
+google-genai
+google-generativeai
+langchain
+chromadb
+pinecone
+fastapi
+pydantic
+uvicorn[standard]
+redis
